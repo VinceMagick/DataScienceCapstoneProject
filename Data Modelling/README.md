@@ -1,4 +1,4 @@
-To complete Project 2, I will follow these steps:
+To complete Project 2, I performed the following steps:
 
 ### Data Modelling:
 
