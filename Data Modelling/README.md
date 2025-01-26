@@ -1,6 +1,6 @@
-To complete Project 2, I performed the following steps:
+### Data Modelling
 
-### Data Modelling:
+To complete Project 2, I performed the following steps:
 
 1. Model Building Strategy:
 * Validation Framework: I will use a train-test split to evaluate the model's performance. Typically, 70% of the data is used for training, and 30% for testing. Additionally, I will use cross-validation to ensure the model's robustness and to avoid overfitting.
