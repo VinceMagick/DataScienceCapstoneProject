@@ -11,7 +11,7 @@ NIDDK (National Institute of Diabetes and Digestive and Kidney Diseases) researc
 The dataset consists of several medical predictor variables and one target variable (Outcome). Predictor variables include the number of pregnancies the patient has had, their BMI, insulin level, age, and more.
 
 | Variables  | Description |
-| ------------- | ------------- |
+| :------------- | :------------- |
 | Pregnancies  | Number of times pregnant  |
 | Glucose  | Plasma glucose concentration in an oral glucose tolerance test  |
 | BloodPressure  | Diastolic blood pressure (mm Hg)  |
