@@ -1,6 +1,6 @@
 ### Data Exploration
 
-To complete Project 1, I will perform the following steps using Python:
+To complete Project 1, I performed the following steps using Python:
 
 #### 1. Data Loading and Initial Exploration: 
 Load the dataset and perform a descriptive analysis to understand the variables and their values.
