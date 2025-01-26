@@ -1,3 +1,5 @@
+### Data Exploration
+
 To complete Project 1, I will perform the following steps using Python:
 
 #### 1. Data Loading and Initial Exploration: 
