@@ -9,18 +9,19 @@ NIDDK (National Institute of Diabetes and Digestive and Kidney Diseases) researc
 ### Dataset Description
 
 The dataset consists of several medical predictor variables and one target variable (Outcome). Predictor variables include the number of pregnancies the patient has had, their BMI, insulin level, age, and more.
- 
-Variables                    Description
-Pregnancies                  Number of times pregnant
-Glucose                      Plasma glucose concentration in an oral glucose tolerance test
-BloodPressure                Diastolic blood pressure (mm Hg)
-SkinThickness                Triceps skinfold thickness (mm)
-Insulin                      Two hour serum insulin
-BMI                          Body Mass Index
-DiabetesPedigreeFunction     Diabetes pedigree function
-Age                          Age in years
-Outcome                      Class variable (either 0 or 1). 268 of 768 values are 1, and the others are 0
 
+| Variables  | Description |
+| ------------- | ------------- |
+| Pregnancies  | Number of times pregnant  |
+| Glucose  | Plasma glucose concentration in an oral glucose tolerance test  |
+| BloodPressure  | Diastolic blood pressure (mm Hg)  |
+| SkinThickness  | Triceps skinfold thickness (mm)  |
+| Insulin  | Two-hour serum insulin  |
+| BMI  | Body Mass Index  |
+| Diabetes Pedigree Function  | Diabetes pedigree function  |
+| Age | Age in years  |
+| Outcome  | Class variable (either 0 or 1). 268 of 768 values are 1, and the others are 0  |            
+                  
 ### Project Task: Week 1
 
 #### Data Exploration:
@@ -32,7 +33,7 @@ Outcome                      Class variable (either 0 or 1). 268 of 768 values a
     • Insulin
     • BMI
     2. Visually explore these variables using histograms. Treat the missing values accordingly.
-    3. There are integer and float data type variables in this dataset. Create a count (frequency) plot describing the data types and the count of variables. 
+    3. This dataset contains integer and float variables. Create a count (frequency) plot describing the data types and the number of variables. 
  
 #### Data Exploration:
 
